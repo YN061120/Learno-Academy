@@ -67,7 +67,6 @@ p {
     margin-bottom: 20px;
 }
 
-/* Table Styling - exactly like your reference */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -95,7 +94,6 @@ tr:hover {
     background-color: #f1f8ff;
 }
 
-/* Code inside table looks nice */
 td code {
     background-color: #f0f0f0;
     padding: 2px 8px;
@@ -116,11 +114,11 @@ footer {
     font-size: 0.9rem;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     header h1 { font-size: 2.3rem; }
     header p { font-size: 1.1rem; }
     main { padding: 20px; }
     table { font-size: 0.9rem; }
     th, td { padding: 10px; }
+
 }
