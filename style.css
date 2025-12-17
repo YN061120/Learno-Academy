@@ -54,30 +54,7 @@ main {
 .btn:hover {
     background-color: #45a049;
 }
-
-.back-btn {
-    background-color: #2196F3;
-}
-
-.back-btn:hover {
-    background-color: #1e88e5;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-}
-
-th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-}
-
-th {
-    background-color: #f2f2f2;
-}
+/* removing unnecessary styling */
 
 footer {
     background-color: #333;
@@ -89,3 +66,4 @@ footer {
     bottom: 0;
 
 }
+
